@@ -1,4 +1,5 @@
-# Project Data Lovers: Mundo GhibliIntegrantes:
+# Project Data Lovers: Mundo Ghibli
+## Integrantes:
 - Liliana Pachari
 - Karina Macedo
 
